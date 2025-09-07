@@ -1,0 +1,17 @@
+# Ignore Streamlit secrets (never upload your token)
+.streamlit/secrets.toml
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment folders
+.env/
+.venv/
+env/
+venv/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
