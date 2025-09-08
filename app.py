@@ -45,7 +45,7 @@ with st.sidebar:
             - [Streamlit](https://streamlit.io/) for the app interface  
             - [Hugging Face](https://huggingface.co/) Inference API for the model  
 
-            Developed by **Murugu** ✨  
+            Developed by **Saravana Murugu** ✨  
             """
         )
 
@@ -100,7 +100,7 @@ if user_text:
 # --- Footer ---
 st.markdown("---")
 st.markdown(
-    "<div style='text-align: center; color: grey;'>Made with ❤️ by Murugu — MuruguChat powered by Streamlit & Hugging Face</div>",
+    "<div style='text-align: center; color: grey;'>Made with ❤️ by Saravana Murugu — MuruguChat powered by Streamlit & Hugging Face</div>",
     unsafe_allow_html=True,
 )
 
